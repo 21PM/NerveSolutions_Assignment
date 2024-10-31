@@ -74,8 +74,8 @@ function ViewStratergies() {
 
   return (
     <>
-      <div className="min-w-full min-h-screen flex items-center justify-center bg-red-100">
-        <div className="sm:w-[50%] min-h-screen border-2 bg-white">
+      <div className="min-w-full min-h-screen flex items-center justify-center">
+        <div className="sm:w-[50%] min-h-screen bg-white">
           <div className="min-w-full mt-4 p-2 flex items-center  justify-around bg-gray-100 text-sm  text-gray-500 font-bold rounded-xl">
             <span
               className={`${
